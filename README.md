@@ -27,7 +27,7 @@ README.md                 # Project documentation
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/Neozs/StockMarketDashboard.git
    cd Stock-Market-Dashboard
    ```
 2. Install required Python packages (in Jupyter or terminal):
